@@ -1,0 +1,9 @@
+{
+	"map_name": "LV295 Selkie Orbital Station",
+    "short_name": "Selkie Orbital Station",
+	"map_path": "map_files/LV295_Selkie_Orbital_Station",
+	"map_file": "LV295_Selkie_Orbital_Station.dmm",
+    "webmap_url": "LV552",
+    "camouflage": "jungle",
+    "map_item_type": "/obj/item/map/lv522_map"
+}
