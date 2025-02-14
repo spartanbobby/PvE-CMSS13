@@ -478,7 +478,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/item/powerloader_clamp,
@@ -1368,7 +1368,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -1555,7 +1555,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/trash/USCMtray{
 	pixel_y = 11
@@ -2234,13 +2234,11 @@
 /turf/open/asphalt/cement,
 /area/lv522_l_l/outdoors/colony)
 "ctK" = (
-/obj/structure/machinery/sensortower{
-	pixel_x = -10;
-	pixel_y = 10
-	},
+/obj/structure/machinery/telecomms/relay/preset/ice_colony,
 /obj/structure/prop/server_equipment/yutani_server{
 	density = 0;
-	layer = 3.2
+	layer = 3.2;
+	pixel_y = -4
 	},
 /turf/open/floor/prison/floor_plate,
 /area/lv522_l_l/outdoors/comms_relay)
@@ -2838,7 +2836,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -3037,7 +3035,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -3500,7 +3498,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/device/flashlight{
 	pixel_y = 3
@@ -3666,7 +3664,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/tool/shovel/spade,
 /obj/item/tool/shovel/spade,
@@ -4177,7 +4175,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -4201,7 +4199,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/storage/box/powderedmilk{
 	pixel_y = -2
@@ -4370,7 +4368,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/item/stack/sheet/cardboard/full_stack,
@@ -4654,7 +4652,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -5536,7 +5534,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -6125,7 +6123,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/storage/box/lightstick/red{
 	pixel_y = 8
@@ -6369,7 +6367,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/item/maintenance_jack,
@@ -6682,7 +6680,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -7582,7 +7580,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -8338,7 +8336,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -8921,7 +8919,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/ammo_box/magazine/spearhead/empty{
 	pixel_y = -4
@@ -9304,7 +9302,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -10338,7 +10336,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -10856,7 +10854,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -10910,7 +10908,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/storage/pouch/survival,
 /obj/item/storage/pouch/survival{
@@ -11152,7 +11150,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/packageWrap,
 /obj/item/packageWrap,
@@ -11989,7 +11987,7 @@
 	},
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/tool/wet_sign{
 	pixel_x = 2;
@@ -12308,7 +12306,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/storage/pouch/tools,
 /obj/item/storage/pouch/tools{
@@ -13207,7 +13205,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -14538,7 +14536,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/prop/server_equipment/laptop/closed{
@@ -14780,7 +14778,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -14939,7 +14937,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -15393,7 +15391,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -16957,7 +16955,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/ammo_box/magazine/spearhead/empty{
 	pixel_y = -4
@@ -17285,7 +17283,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/circuitboard/computer{
 	pixel_x = 6;
@@ -18382,7 +18380,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/item/inflatable{
@@ -18800,7 +18798,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/tool/warning_cone{
 	pixel_y = 4;
@@ -19240,7 +19238,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/item/storage/box/masks{
@@ -20189,7 +20187,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/item/storage/pouch/general/large{
@@ -21074,7 +21072,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/effect/decal/warning_stripes{
 	icon_state = "S"
@@ -21262,7 +21260,7 @@
 /obj/structure/surface/rack,
 /obj/structure/surface/rack{
 	pixel_y = 19;
-	layer = 3.5
+	layer = 5.2
 	},
 /obj/item/ammo_box/magazine/spearhead/empty{
 	pixel_y = -4

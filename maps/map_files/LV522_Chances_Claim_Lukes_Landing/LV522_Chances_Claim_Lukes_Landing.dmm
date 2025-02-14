@@ -19148,19 +19148,6 @@
 	},
 /turf/open/asphalt/cement/cement4,
 /area/lv522/outdoors/colony_streets/south_street)
-"fun" = (
-/obj/docking_port/stationary/trijent_elevator{
-	height = 5;
-	width = 8;
-	id = "ice_dorm_upper";
-	name = "Dormitory Upper Floor";
-	roundstart_template = /datum/map_template/shuttle/trijent_elevator/ice_elevator/dorm;
-	airlock_exit = "elevator";
-	elevator_network = "dorm";
-	airlock_area = /area/shuttle/elevator2/ground
-	},
-/turf/open/floor/plating/icefloor/warnplate/southwest,
-/area/shuttle/elevator2/ground)
 "fuZ" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "2-8"
@@ -44213,18 +44200,6 @@
 "mnb" = (
 /turf/open/asphalt/cement/cement4,
 /area/lv522/outdoors/colony_streets/south_street)
-"mng" = (
-/obj/docking_port/stationary/trijent_elevator{
-	airlock_area = /area/shuttle/elevator2/underground;
-	airlock_exit = "elevator";
-	elevator_network = "dorm";
-	width = 8;
-	height = 5;
-	id = "ice_dorm_lower";
-	name = "Dormitory Lower Floor"
-	},
-/turf/open/floor/plating/icefloor/warnplate/southwest,
-/area/shuttle/elevator2/underground)
 "mns" = (
 /obj/structure/window/framed/strata/reinforced,
 /obj/structure/machinery/door/poddoor/shutters/almayer{
@@ -212165,7 +212140,7 @@ cIU
 qXC
 qXC
 qXC
-fun
+axy
 jHb
 mmH
 jis
@@ -369029,7 +369004,7 @@ pFN
 hyK
 hyK
 hyK
-mng
+tow
 mHI
 meF
 meF
