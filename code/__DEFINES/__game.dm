@@ -42,6 +42,7 @@
 #define MAP_DERELICT_ALMAYER "Derelict Almayer"
 #define MAP_LV522_LUKES_LANDING "LV-522 Lukes Landing"
 #define MAP_LV522_CHANCES_CLAIM_LUKES_LANDING "LV-522 Chances Claim & Lukes Landing"
+#define MAP_LV295_BLACKSITE "LV295 Blacksite"
 
 #define GAMEMODE_WHISKEY_OUTPOST "Whiskey Outpost"
 #define GAMEMODE_HIVE_WARS "Hive Wars"
